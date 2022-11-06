@@ -19,7 +19,7 @@ sudo dnf install enscript ghostscript
 sudo pacman -S enscript ghostscript
 ```
 
-## Systemwide Installation
+## System wide installation
 ```bash
 git clone git@github.com:oyamo/text2pdf.git
 sudo make install
